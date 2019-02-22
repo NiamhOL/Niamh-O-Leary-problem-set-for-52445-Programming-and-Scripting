@@ -1,5 +1,4 @@
-**Programming and Scripting Module 2019 - 
-**Problem Set Solutions**
+**Programming and Scripting Module 2019 - Problem Set Solutions**
 
 **Name: Niamh O'Leary**
 
@@ -21,19 +20,19 @@ https://www.w3resource.com/python/python-tutorial.php
 Write a program that outputs whether or not today is a day that begins with the letter T. An example of running this program on a 
 
 
-###**Exercise 3**
+**Exercise 3**
 
 
-###**Exercise 4**
+**Exercise 4**
 
 
-###**Exercise 5**
+**Exercise 5**
 
 
-###**Exercise 6**
+**Exercise 6**
 
 
-###**Exercise 8**
+**Exercise 8**
 
 
-### **Exercise 9**
+**Exercise 9**
