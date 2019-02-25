@@ -33,6 +33,8 @@ To solve this problem I had to get the current date.
 
 Write a program that prints all numbers between 1,000 and 10,000 that are devisible by 6 but not 12. 
 
+To solve this problem, I used the range () function and identified the list of numbers I wanted to generate
+
 Reference:
 www.pythoncentral.io/pythons-range-function-explained/
 
