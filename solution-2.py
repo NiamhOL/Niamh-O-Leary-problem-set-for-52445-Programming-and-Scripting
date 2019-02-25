@@ -1,4 +1,7 @@
 # Solution to problem 2
+# Niamh O'Leary
+# ID: G00376339
+
 # Write a program that outputs whether or not today is a day that begins with the letter T.
 
 import datetime
