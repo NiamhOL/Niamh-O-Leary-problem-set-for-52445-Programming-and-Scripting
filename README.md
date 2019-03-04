@@ -43,6 +43,9 @@ www.w3schools.com/python/ref_func_range.asp
 
 ### **Exercise 4**
 
+Write a program that asks the user to input any positive integer and outputs the sucessive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide by two, but if it is odd, multiply it by three and add one. Have the programe end if the current value is one.
+
+
 
 ### **Exercise 5**
 
