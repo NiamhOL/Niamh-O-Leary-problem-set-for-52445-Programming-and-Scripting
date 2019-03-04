@@ -45,9 +45,17 @@ www.w3schools.com/python/ref_func_range.asp
 
 Write a program that asks the user to input any positive integer and outputs the sucessive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide by two, but if it is odd, multiply it by three and add one. Have the programe end if the current value is one.
 
+Collatz 
+If and else if statement
+
+Refernces:
+www.stackoverflow.com/questions/33505034/making-a-collatz-program-automate-the-borning-stuff
+
 
 
 ### **Exercise 5**
+
+Write a program that askes the user to input a positive integer and tells the user whether or not the number is a prime.
 
 
 ### **Exercise 6**
