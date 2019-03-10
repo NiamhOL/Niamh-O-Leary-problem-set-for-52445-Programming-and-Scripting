@@ -4,6 +4,19 @@
 
 ## **Student ID: G00376339**
 
+## **Problem set solutions**
+
+This respository contains my solutions to the Problem Set 2019 for the module Programming and Scripting at GMIT.
+
+### **How download this respoitory**
+1. Go to Github.
+2. Click the download button.
+
+### **How to run the code**
+1. Make sure you habe Python installed.
+
+### **Introduction**
+
 I am total novice to python and programming in general. Therefore, before I attempted the Problem Set, I did a number of online practical tutorials. I repeated the exercises in these tutorials until I was moer confident with some of the coding and syntaxes used in python. 
 
 References:
@@ -14,7 +27,7 @@ www.udemy.com
   
   
 ### **Exercise 1**
-
+Filename: solution-1.py contains my solution to problem one.
 Write a programme that asks the user to input any positive integer and outputs the sum os all numbers between one and that number?
 
 Solution: 
@@ -27,6 +40,8 @@ https://www.w3resource.com/python/python-tutorial.php
 
 ### **Exercise 2**
 
+Filename: solution-2.py contains my solution to problem two.
+
 Write a program that outputs whether or not today is a day that begins with the letter T. 
 To solve this problem I had to get the current date. 
 
@@ -34,6 +49,8 @@ McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scriptin
 
 
 ### **Exercise 3**
+Filename: solution-3.py contains by solutions to problem 3.
+
 
 Write a program that prints all numbers between 1,000 and 10,000 that are devisible by 6 but not 12. 
 
@@ -47,6 +64,7 @@ www.w3schools.com/python/ref_func_range.asp
 
 
 ### **Exercise 4**
+Filename: solution-4.py contains my solutions to problem 4.
 
 Write a program that asks the user to input any positive integer and outputs the sucessive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide by two, but if it is odd, multiply it by three and add one. Have the programe end if the current value is one.
 
@@ -77,8 +95,13 @@ wwww.programiz.com/python-programming/examples/prime-number
 
 Write a program that takes a user input string and outputs every second word.
 
-Refernces: 
+To solve this exercise, I had to research how to split a string in Python. By using split() I was able to split the string into a list. I then searched how to select every second word and discovered that I could use the notation [::2] which is based on the concept of "slicing". The string "the quick brown fox jumps over the lazt dog
+
+Refernces:
+www.pythonforbeginners.com/dictionary/python-split
+www.w3schools.com/python/ref_string_split_asp
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
+https://stackoverflow.com/questions/17645327/python-3-3-how-to-grab-every-5th-word-in-a-text-file
 
 ### **Exercise 7**
 
