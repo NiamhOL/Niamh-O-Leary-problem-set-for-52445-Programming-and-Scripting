@@ -104,6 +104,7 @@ McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scriptin
 https://stackoverflow.com/questions/17645327/python-3-3-how-to-grab-every-5th-word-in-a-text-file
 
 ### **Exercise 7**
+Filename: solution-7.py contains my solutions to problem 7.
 
 Refernces: 
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
