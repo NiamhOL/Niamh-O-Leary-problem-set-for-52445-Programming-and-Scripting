@@ -75,8 +75,22 @@ wwww.programiz.com/python-programming/examples/prime-number
 
 ### **Exercise 6**
 
+Write a program that takes a user input string and outputs every second word.
+
+Refernces: 
+McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
+
+### **Exercise 7**
+
+Refernces: 
+McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
 
 ### **Exercise 8**
 
+Refernces: 
+McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
 
 ### **Exercise 9**
+
+Refernces: 
+McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
