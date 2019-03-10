@@ -94,3 +94,5 @@ McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scriptin
 
 Refernces: 
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
+
+### **Exercise 10**
