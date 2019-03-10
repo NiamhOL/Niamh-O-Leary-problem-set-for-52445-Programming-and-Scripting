@@ -106,8 +106,11 @@ https://stackoverflow.com/questions/17645327/python-3-3-how-to-grab-every-5th-wo
 ### **Exercise 7**
 Filename: solution-7.py contains my solutions to problem 7.
 
+I was able to find the square root by using 
+
 Refernces: 
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
+https//www.programiz.com/python-programming/examples/square-root
 
 ### **Exercise 8**
 
