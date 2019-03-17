@@ -115,7 +115,16 @@ https//www.programiz.com/python-programming/examples/square-root
 ### **Exercise 8**
 Filename: solution-8py containes my solution to problem 8.
 
-To solve this problem, I revisted the datetime moddule that I used in problem 2. I was albe to generate today's date, but was unsure as how to display it in the requested format. I did a seach in 
+To solve this problem, I revisted the datetime moddule that I used in problem 2. I was albe to generate today's date, but was unsure as how to display it in the requested format. I researched datetime modules in The Python Tutorial and found a way to manipulate the datetime by using strftime () method, this allowed me take format codes and return a formatted string based on these codes. By using the now vairable, I was able to select the current datte and time. I then used strftimes directives to give the date and time in the required foramt.
+      Code                  Meaning                           Example
+      %A                    Full weekday name                 Sunday
+      %B                    Full month name                   March
+      %d                    day of the month                  17 by adding th I got 17th
+      %Y                    year in four digit format         2019
+      %I                    hour using 12 hour clock          10
+      %M                    minute                            31
+      %p                    either am or pm                   pm
+
 
 Refernces:  
 www.w3resource.com/python-exercises/python-basic-exercise-3.php
