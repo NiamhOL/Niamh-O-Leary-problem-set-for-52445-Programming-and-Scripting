@@ -78,6 +78,7 @@ www.stackoverflow.com/questions/33505034/making-a-collatz-program-automate-the-b
 
 
 ### **Exercise 5**
+Fiename: solution-5.py contains solution to problem 5.
 
 Write a program that askes the user to input a positive integer and tells the user whether or not the number is a prime.
 
@@ -92,6 +93,7 @@ wwww.programiz.com/python-programming/examples/prime-number
 
 
 ### **Exercise 6**
+Filename: solution-6.py conatians solution to problem 6.
 
 Write a program that takes a user input string and outputs every second word.
 
@@ -133,7 +135,7 @@ www.strftime.org
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
 
 ### **Exercise 9**
-
+Filename: solution-9.py contains solution to problem 9. 
 Refernces: 
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
 
