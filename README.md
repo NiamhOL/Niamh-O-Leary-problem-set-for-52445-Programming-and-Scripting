@@ -144,3 +144,5 @@ Filename: solution-10.py contains solution to problem 10. Each plot is saved as 
 
 References:
 VanderPlas, J. (2016), *A Whirlwind Tour of Python*, O'Reilly Media. 
+https://www.tutorialspoint.com/matlab/matlab_plotting.htm
+McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
