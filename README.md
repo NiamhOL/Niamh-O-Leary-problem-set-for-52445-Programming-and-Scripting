@@ -115,9 +115,12 @@ https//www.programiz.com/python-programming/examples/square-root
 ### **Exercise 8**
 Filename: solution-8py containes my solution to problem 8.
 
+To solve this problem, I revisted the datetime moddule that I used in problem 2. I was albe to generate today's date, but was unsure as how to display it in the requested format. I did a seach in 
 
-
-Refernces: 
+Refernces:  
+www.w3resource.com/python-exercises/python-basic-exercise-3.php
+httpS//docs.python.org/3/library/datetime.html.
+www.strftime.org
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
 
 ### **Exercise 9**
