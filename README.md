@@ -113,6 +113,9 @@ McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scriptin
 https//www.programiz.com/python-programming/examples/square-root
 
 ### **Exercise 8**
+Filename: solution-8py containes my solution to problem 8.
+
+
 
 Refernces: 
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
