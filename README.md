@@ -150,7 +150,7 @@ Filename: solution-10-b.py contains the solution to problem 10. The three plots 
 
 To solve this problem, I had to use matplotlib and numpy. To gain a better understaning of the general concepts of matplotlib, I worked my way throught eh introductory tutorial at Matplotlib Version 3.0.3. I also referred to the NumPy manual available on SciPy.org, this gave me a greater understanding of the different function available in Numpy especially the np.arange function, which I used in my solution to return an array of evenly spaced numbers as per the interval I asked e.g 0.5. 
 
-I initially approached this problem, by manually calculating the values of x,
+I initially approached this problem, by manually calculating the values of for the funtions I wanted to plot. I then created individual plots for each funtion. However, I researched a more effecient way to generate these plots on on graph. I have included both attempts in by respoitory. 
 
 References:
 www.matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage.py
