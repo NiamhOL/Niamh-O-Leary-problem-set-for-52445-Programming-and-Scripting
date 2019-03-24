@@ -146,8 +146,15 @@ The Python Tutorial 3.7, secion 7.2 - Reading and Writing Files.
 
 ### **Exercise 10**
 Filename: solution-10.py contains solution to problem 10. Each plot is saved as a .png file.
+Filename: solution-10-b.py contains the solution to problem 10. The three plots are displayed on one graph. This was my second and revised attempt at this question.
+
+To solve this problem, I had to use matplotlib and numpy. To gain a better understaning of the general concepts of matplotlib, I worked my way throught eh introductory tutorial at Matplotlib Version 3.0.3. I also referred to the NumPy manual available on SciPy.org, this gave me a greater understanding of the different function available in Numpy especially the np.arange function, which I used in my solution to return an array of evenly spaced numbers as per the interval I asked e.g 0.5. 
+
+I initially approached this problem, by manually calculating the values of x,
 
 References:
+www.matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage.py
+www.scipy.org/doc/numpy/index.html
 VanderPlas, J. (2016), *A Whirlwind Tour of Python*, O'Reilly Media. 
 https://www.tutorialspoint.com/matlab/matlab_plotting.htm
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
