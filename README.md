@@ -137,11 +137,12 @@ McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scriptin
 ### **Exercise 9**
 Filename: solution-9.py contains solution to problem 9. 
 
-In solving this problem I firstly search for and saved Chapter 1 Mody Dick as a text file. I then researched how to open a tect file in python. 
+In solving this problem I firstly search for and saved Chapter 1 Mody Dick as a text file. I then researched how to open a text file in python.  By using open ('moby-dick', 'r') I was able to open the file for reading plan text. I then wrote code so that every line in the file would be read. By using the built in function enumerate () I was able to loop over the text and create a tuple. I then identified that I only needed every second line to be selected. 
 
 Refernces: 
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
 The Python Tutorial 3.7, secion 7.2 - Reading and Writing Files.
+
 
 ### **Exercise 10**
 Filename: solution-10.py contains solution to problem 10. Each plot is saved as a .png file.
