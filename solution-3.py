@@ -9,3 +9,4 @@ for num in range (1000, 10000): #This identifies the number integers starting fr
     if num % 6 == 0 and num % 12 != 0 #if the number if divisible by 6 but not 12
     print (num) #print 
 
+# For method and refernces please see accompying README file in GITHUB repository #
