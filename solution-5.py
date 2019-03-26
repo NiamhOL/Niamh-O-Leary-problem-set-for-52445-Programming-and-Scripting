@@ -19,3 +19,4 @@
 
 else:
     print(num, "This is not a prime number") # if the input number is less than or equal to 1, it is not a prime number# 
+# For method and refernces please see accompying README file in GITHUB repository #
