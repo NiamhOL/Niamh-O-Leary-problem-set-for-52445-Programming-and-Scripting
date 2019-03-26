@@ -11,3 +11,4 @@ print (sum_num) #prints all the outputs#
 
 Print ("I just wrote my first program")
 
+# For method and refernces please see accompying README file in GITHUB repository #
