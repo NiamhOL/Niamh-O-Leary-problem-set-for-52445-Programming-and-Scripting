@@ -28,4 +28,6 @@ plt.ylabel('numbers')                          # y axis label #
 Text(0, 0.5, 'numbers')                          
                                                  
 plt.show()                                       
+
+# for method and refernces please see accompying README file in GITHUB repository #
                                                                              
