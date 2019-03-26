@@ -70,7 +70,7 @@ Filename: solution-4.py contains my solutions to problem 4.
 
 Write a program that asks the user to input any positive integer and outputs the sucessive values of the following calculation. At each step calculate the next value by taking the current value and, if it is even, divide by two, but if it is odd, multiply it by three and add one. Have the programe end if the current value is one.
 
-Solution: To solve this problem I used the COLLATZ CONJECTURE function, which is a conjecture that a particular sequence always reaches 1. The sequence is defined as start with a number n. I combined an ELSE statement with an IF statement. An ELSE statement contained the block of code that executes if the conditional expression in the IF statement resolves to 0 or a FALSE value. 
+Solution: To solve this problem I used the COLLATZ CONJECTURE function, which is a conjecture that a particular sequence always reaches 1. The sequence is defined as start with a number n. I combined an ELSE statement with an IF statement. An ELSE statement contained the block of code that executes if the conditional expression in the IF statement resolves to 0 or a FALSE value. I also used the ELIF statement which allowed me check multiple expressions for TRUE and execute a block of code as soom as one of the conditions was TRUE. I initially was unsure as how to tackle this problem. However, I looked at other exmmples in GITHUB and StackOverFlow for guidance and then researched using the IF, ELSE and ELIF statements. 
 
 Refernces:
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
@@ -109,7 +109,7 @@ https://stackoverflow.com/questions/17645327/python-3-3-how-to-grab-every-5th-wo
 ### **Exercise 7**
 Filename: solution-7.py contains my solutions to problem 7.
 
-Solution: I was able to find the square root by using 
+Solution: I was able to find the square root by using the SQUARE ROOT FORMULA. I researched the formula by undertaking a search in StackOverFlow and Programiz web tutorial. 
 
 Refernces: 
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
