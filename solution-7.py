@@ -13,3 +13,5 @@ num = 14.5
 
 num_sqrt = num ** 0.5 #calulates the square root#
 print("The square root of %0.3f is %0.3f"%(num, num_sqrt)) #prints the original number and its square root#
+
+# For method and refernces please see accompying README file in GITHUB repository #
