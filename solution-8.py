@@ -19,3 +19,5 @@ Sunday, March 17th 2019 at 10:31AM
 
 In [8]: print (TGREEN + "La Feile Padraig")
 La Feile Padraig
+       
+# For method and refernces please see accompying README file in GITHUB repository #
