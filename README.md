@@ -177,5 +177,5 @@ Python 3.7.2 is the latest version available for download. For more information 
 ## **Authors**
 - Niamh O'Leary - initial work as part of Problem Set for H.Dip in Computing and Data Analytics, GMIT.
 
-## **Acknowledgements##
+## **Acknowledgements**
 - Dr. Ian McLoughlin, Dept. of Computer Science, GMIT. 
