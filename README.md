@@ -14,8 +14,13 @@ This respository contains my solutions to the Problem Set 2019 for the module Pr
 2. Click the download button.
 
 ### **How to run the code**
-1. Make sure you have Python installed.
-2. Open a command winder and use ipython. 
+1. Make sure you have Python installed. https://www.python.org/downloads/
+2. Download Python using Anaconda and use iPython. https://www.anaconda.com/distribution/
+3. Anaconda allows you to use software such as Visual Studio Code. https://code.visualstudio.com/download
+4. Download Vivual Studio Code, this will assist you in saving annd editing your code.
+5. Install Cmder in Windows to allow you run the code used in this repository. https://cmder.net/
+6. Open a command winder and use ipython. 
+
 
 ### **Introduction**
 
@@ -159,3 +164,18 @@ www.scipy.org/doc/numpy/index.html
 VanderPlas, J. (2016), *A Whirlwind Tour of Python*, O'Reilly Media. 
 https://www.tutorialspoint.com/matlab/matlab_plotting.htm
 McLoughlin, I. (2019), *Lecture Presentations - 52445 - Programming and Scripting*, Higher Diploma in Computing and Data Analytics, Galway Mayo Institute of Technology.
+
+## **Deployment**
+Python 3.7.2 is the latest version available for download. For more information please go to https://www.python.org/
+
+## **Built With**
+- Python - https://www.python.org/downloads/
+- cmdr - https://cmder.net/
+- Visual Studio Code - https://code.visualstudio.com/download
+- Anaconda - https://www.anaconda.com/distribution/
+
+## **Authors**
+- Niamh O'Leary - initial work as part of Problem Set for H.Dip in Computing and Data Analytics, GMIT.
+
+## **Acknowledgements##
+- Dr. Ian McLoughlin, Dept. of Computer Science, GMIT. 
