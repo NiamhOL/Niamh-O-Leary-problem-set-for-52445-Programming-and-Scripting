@@ -24,7 +24,7 @@ This respository contains my solutions to the Problem Set 2019 for the module Pr
 
 ### **Introduction**
 
-I am total novice to python and programming in general. Therefore, before I attempted the Problem Set, I did a number of online practical tutorials. I repeated the exercises in these tutorials until I was moer confident with some of the coding and syntaxes used in python. 
+I am total novice to python and programming in general. Therefore, before I attempted the Problem Set, I did a number of online practical tutorials. I repeated the exercises in these tutorials until I was more confident with some of the coding and syntaxes used in python. 
 
 References:
 www.w3schools.com/python
